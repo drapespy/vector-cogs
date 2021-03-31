@@ -1,1 +1,1 @@
-# vector-cogs
+# Vector Cogs
